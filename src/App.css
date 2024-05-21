@@ -4,7 +4,7 @@
   text-align: center;
 }
 
-.SubappReact-header {
+.header {
   background-color: #282c34;
   height: 100%;
   display: flex;
@@ -15,10 +15,8 @@
   color: white;
 }
 
-.SubappReact-link {
-  cursor: pointer;
+.title {
   color: #fff;
-  text-decoration: underline;
 }
 
 
