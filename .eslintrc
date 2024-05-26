@@ -1,5 +1,6 @@
 {
   "root": true,
+  "extends": ["eslint-config-react-app/base"],
   "rules": {
     "semi": ["error", "always"],
     "no-multiple-empty-lines": ["error", { "max": 2 }]
