@@ -1,11 +1,13 @@
-import './index.css';
+import './index.css'
 
 function Login() {
   return (
     <div className="login">
       登录模块
-    </div>
+      </div>
   );
 }
+
+
 
 export default Login;
